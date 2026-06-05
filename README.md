@@ -60,9 +60,9 @@ node src/seed.js
 ```
 
 Demo Accounts
-- Customer: customer@example.com / password
-- Organizer: organizer@example.com / password
-- Admin: admin@example.com / password
+- Customer: customer123@example.com / password
+- Organizer: organizer123@example.com / password
+- Admin: admin123@example.com / password
 
 Key Features
 - Customers: browse events, register, download branded PDF tickets with QR, post reviews
